@@ -2,11 +2,11 @@
 
 This is a landing page project for a Cars Gallery, created as part of the DRB internship program. The project showcases a collection of cars with images and descriptions.
 
-![Cars Gallery](./assets/images/thumbnail.png)
+![Cars Gallery](/assets/images/thumbnail.png)
 
 ## Cars Gallery Landing Page - Live Demo
 
-**Live Demo:** [https://your-live-demo-link.com](https://your-live-demo-link.com)
+**Live Demo:** [https://cars-gallery-landing-page.vercel.app/](https://cars-gallery-landing-page.vercel.app/)
 
 ## Tech Stack
 
@@ -26,11 +26,11 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cars-gallery-landing.git
+   git clone https://github.com/Abdelaziz-Mohammed/cars-gallery-landing-page.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd cars-gallery-landing
+   cd cars-gallery-landing-page
    ```
 3. Install the dependencies:
    ```bash
