@@ -2,7 +2,7 @@
 
 This is a landing page project for a Cars Gallery, created as part of the DRB internship program. The project showcases a collection of cars with images and descriptions.
 
-![Cars Gallery](/assets/images/thumbnail.png)
+![Cars Gallery](assets/images/thumbnail.png)
 
 ## Cars Gallery Landing Page - Live Demo
 
